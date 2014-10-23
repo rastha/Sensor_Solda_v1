@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Sensol</string>
+	<string name="action_settings">Ajuda</string>
+	<string name="_192_168_0_40">192.168.0.40</string>
+	<string name="endere_o_de_ip_">Endereço de IP:</string>
+	<string name="label1">label1</string>
+	<string name="ler">Ler</string>
+	<string name="grafico">Grafico</string>
+	<string name="chronometer">chronometer</string>
+	<string name="branco"></string>
+	<string name="abrir">Abrir</string>
+	<string name="salvar">Salvar</string>
+
+</resources>
